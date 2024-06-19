@@ -1,5 +1,6 @@
 {
   "banners": [
+    { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner3.jpeg", "text": "Book your service now!" },
     { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner1.jpeg", "text": "Welcome to our service app!" },
     { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner2.jpeg", "text": "Discover amazing services!" },
     { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner3.jpeg", "text": "Book your service now!" }
