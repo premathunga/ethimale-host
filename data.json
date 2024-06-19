@@ -8,6 +8,9 @@
     { "icon": "https://example.com/icons/Cleaning.png", "name": "Cleaning" },
     { "icon": "https://example.com/icons/repairing.png", "name": "Repairing" },
     { "icon": "https://example.com/icons/painting.png", "name": "Painting" },
+    { "icon": "https://example.com/icons/Cleaning.png", "name": "Cleaning" },
+    { "icon": "https://example.com/icons/repairing.png", "name": "Repairing" },
+    { "icon": "https://example.com/icons/painting.png", "name": "Painting" },
     { "icon": "https://example.com/icons/laundry.png", "name": "Laundry" }
   ],
   "popularServices": [
