@@ -8,6 +8,10 @@
     { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/Cleaning.png", "name": "Cleaning" },
     { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/repairing.png", "name": "Repairing" },
     { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/painting.png", "name": "Painting" },
+    { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/Cleaning.png", "name": "Cleaning" },
+    { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/repairing.png", "name": "Repairing" },
+    { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/painting.png", "name": "Painting" },
+    { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/repairing.png", "name": "Repairing" },
     { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/laundry.png", "name": "Laundry" }
   ],
   "popularServices": [
