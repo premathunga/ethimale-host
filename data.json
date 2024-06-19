@@ -1,8 +1,8 @@
 {
   "banners": [
-    "Slide 1: Welcome to our service app!",
-    "Slide 2: Discover amazing services!",
-    "Slide 3: Book your service now!"
+    { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner1.jpeg", "text": "Welcome to our service app!" },
+    { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner2.jpeg", "text": "Discover amazing services!" },
+    { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/banners/banner3.jpeg", "text": "Book your service now!" }
   ],
   "categories": [
     { "icon": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/Cleaning.png", "name": "Cleaning" },
@@ -24,4 +24,3 @@
     { "image": "https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/images/services/service4.jpeg", "title": "Service 4", "subtitle": "Subtitle 4", "price": "$400" }
   ]
 }
-
