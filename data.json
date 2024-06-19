@@ -5,15 +5,16 @@
     "Slide 3: Book your service now!"
   ],
   "categories": [
-    { "icon": "../assets/icons/Cleaning.png", "name": "Cleaning" },
-    { "icon": "../assets/icons/repairing.png", "name": "Repairing" },
-    { "icon": "../assets/icons/painting.png", "name": "Painting" },
-    { "icon": "../assets/icons/laundry.png", "name": "Laundry" }
+    { "icon": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/Cleaning.png", "name": "Cleaning" },
+    { "icon": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/repairing.png", "name": "Repairing" },
+    { "icon": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/painting.png", "name": "Painting" },
+    { "icon": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/icons/laundry.png", "name": "Laundry" }
   ],
   "popularServices": [
-    { "image": "../assets/images/services/service1.jpeg", "title": "ජලනල කාර්මී​ක 1", "subtitle": "Subtitle 1", "price": "$100" },
-    { "image": "../assets/images/services/service2.jpeg", "title": "වඩු කාර්මි​ක 2", "subtitle": "Subtitle 2", "price": "$200" },
-    { "image": "../assets/images/services/service3.jpeg", "title": "Service 3", "subtitle": "Subtitle 3", "price": "$300" },
-    { "image": "../assets/images/services/service4.jpeg", "title": "Service 4", "subtitle": "Subtitle 4", "price": "$400" }
+    { "image": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/images/services/service1.jpeg", "title": "ජලනල කාර්මී​ක 1", "subtitle": "Subtitle 1", "price": "$100" },
+    { "image": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/images/services/service2.jpeg", "title": "වඩු කාර්මි​ක 2", "subtitle": "Subtitle 2", "price": "$200" },
+    { "image": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/images/services/service3.jpeg", "title": "Service 3", "subtitle": "Subtitle 3", "price": "$300" },
+    { "image": ".https://raw.githubusercontent.com/premathunga/ethimale-host/main/assets/images/services/service4.jpeg", "title": "Service 4", "subtitle": "Subtitle 4", "price": "$400" }
   ]
 }
+
