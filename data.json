@@ -1,0 +1,19 @@
+{
+  "banners": [
+    "Slide 1: Welcome to our service app!",
+    "Slide 2: Discover amazing services!",
+    "Slide 3: Book your service now!"
+  ],
+  "categories": [
+    { "icon": "https://example.com/icons/Cleaning.png", "name": "Cleaning" },
+    { "icon": "https://example.com/icons/repairing.png", "name": "Repairing" },
+    { "icon": "https://example.com/icons/painting.png", "name": "Painting" },
+    { "icon": "https://example.com/icons/laundry.png", "name": "Laundry" }
+  ],
+  "popularServices": [
+    { "image": "https://example.com/images/services/service1.jpeg", "title": "ජලනල කාර්මී​ක 1", "subtitle": "Subtitle 1", "price": "$100" },
+    { "image": "https://example.com/images/services/service2.jpeg", "title": "වඩු කාර්මි​ක 2", "subtitle": "Subtitle 2", "price": "$200" },
+    { "image": "https://example.com/images/services/service3.jpeg", "title": "Service 3", "subtitle": "Subtitle 3", "price": "$300" },
+    { "image": "https://example.com/images/services/service4.jpeg", "title": "Service 4", "subtitle": "Subtitle 4", "price": "$400" }
+  ]
+}
